@@ -1,0 +1,17 @@
+.cover {
+  height: 300px;
+}
+.cover > h1 {
+  left: 350px;
+  top: 200px;
+  position: absolute;
+  margin: 0;
+}
+.avarta {
+  left: 100px;
+  width: 200px;
+  height: 200px;
+  border-image: 10px #217cd7;
+  position: absolute;
+  top: 100px;
+}

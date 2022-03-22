@@ -1,0 +1,9 @@
+.box-default {
+  display: flex;
+  justify-content: center;
+}
+.box-default > p {
+  background-color: aqua;
+  width: 30%;
+  padding: 50px;
+}
